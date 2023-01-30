@@ -2,11 +2,11 @@
     "name": "html-dom",
     "description": "Common tasks to manage HTML DOM with native API",
     "author": {
-        "name": "Nguyen Huu Phuoc",
-        "email": "me@phuoc.ng",
-        "url": "https://twitter.com/nghuuphuoc"
+        "name": "uvacoder",
+        "email": "uvacoder@proton.me",
+        "url": "https://abclinks.vercel.app"
     },
-    "homepage": "https://htmldom.dev",
+    "homepage": "https://test-html-dom.vercel.app",
     "keywords": [
         "dom",
         "document object model",
@@ -15,10 +15,10 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/1milligram/html-dom"
+        "url": "https://github.com/uvacoder/test-html-dom"
     },
     "bugs": {
-        "url": "https://github.com/1milligram/html-dom/issues"
+        "url": "https://github.com/uvacoder/test-html-dom/issues"
     },
     "license": "MIT",
     "scripts": {
