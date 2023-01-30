@@ -3,7 +3,6 @@ import Head from 'next/head';
 import * as React from 'react';
 import { Layout } from './Layout';
 
-import { Ad } from '../components/Ad';
 
 export const PostLayout: React.FC<{
     keywords?: string;
@@ -24,10 +23,7 @@ export const PostLayout: React.FC<{
                 <div className="block-home__hero">
                     <Spacer size="extraLarge" />
                     <Heading level={1}>{title}</Heading>
-                    <Spacer size="large" />
-                    <div className="block-ad">
-                        <Ad />
-                    </div>
+            
                     <Spacer size="medium" />
                 </div>
                 {children}
