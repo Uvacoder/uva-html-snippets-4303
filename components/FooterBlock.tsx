@@ -20,13 +20,13 @@ export const FooterBlock = () => (
                     <FooterLink href="https://thisthat.dev">this VS that</FooterLink>
                 </FooterGroup>
                 <FooterGroup title="Follow us">
-                    <FooterLink href="https://github.com/1milligram">GitHub</FooterLink>
-                    <FooterLink href="https://twitter.com/nghuuphuoc">Twitter</FooterLink>
+                    <FooterLink href="https://github.com/uvacoder">GitHub</FooterLink>
+                    <FooterLink href="https://twitter.com/VaLandscapes">Twitter</FooterLink>
                 </FooterGroup>
             </Footer>
 
             <div className="block-footer__copyright">
-                © 2020 — {new Date().getFullYear()}, 1 milligram. All rights reserved.
+                © 2023 — {new Date().getFullYear()}, uvacoder. All rights reserved.
             </div>
         </div>
     </footer>
