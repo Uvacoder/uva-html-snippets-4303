@@ -24,11 +24,11 @@ const HomePage: React.FC<{
     const sortCategory = (a: string, b: string) => CATEGORY_SORT[a] - CATEGORY_SORT[b];
 
     return (
-        <Layout title="Manage HTML DOM with vanilla JavaScript">
+        <Layout title="Search HTML Scripts with vanilla JavaScript">
             <div className="block-container">
                 <div className="block-home__hero">
                     <Spacer size="extraLarge" />
-                    <Heading level={1}>Manage HTML DOM</Heading>
+                    <Heading level={1}>Search HTML Scripts</Heading>
                     <Heading level={4}>with vanilla JavaScript</Heading>
                     <Spacer size="large" />
                 </div>
